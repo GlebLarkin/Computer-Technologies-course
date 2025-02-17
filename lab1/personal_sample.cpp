@@ -114,8 +114,8 @@ void whale_creation()
 int main(int argc, char **argv)
 {
   // cube_creation();
-  thunder_god();
-  // whale_creation();
+  // thunder_god();
+  whale_creation();
 
   return 0;
 }
