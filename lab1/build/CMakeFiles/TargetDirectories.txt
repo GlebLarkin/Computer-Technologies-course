@@ -1,0 +1,7 @@
+/home/gleb/Coding/CppProjects/CT_labs/lab1/build/CMakeFiles/sample01.dir
+/home/gleb/Coding/CppProjects/CT_labs/lab1/build/CMakeFiles/sample02.dir
+/home/gleb/Coding/CppProjects/CT_labs/lab1/build/CMakeFiles/sample03.dir
+/home/gleb/Coding/CppProjects/CT_labs/lab1/build/CMakeFiles/sample04.dir
+/home/gleb/Coding/CppProjects/CT_labs/lab1/build/CMakeFiles/personal_sample.dir
+/home/gleb/Coding/CppProjects/CT_labs/lab1/build/CMakeFiles/edit_cache.dir
+/home/gleb/Coding/CppProjects/CT_labs/lab1/build/CMakeFiles/rebuild_cache.dir

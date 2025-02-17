@@ -1,0 +1,1 @@
+/usr/bin/c++ -std=c++11 -g CMakeFiles/personal_sample.dir/personal_sample.cpp.o -o personal_sample  /usr/lib/x86_64-linux-gnu/libgmsh.so 
